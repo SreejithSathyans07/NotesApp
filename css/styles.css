@@ -1,0 +1,20 @@
+body{
+    background-color: #fff ;
+    font-family: 'Montserrat', sans-serif;
+}
+#searchResultArea{
+    margin:15px 0;
+}
+#saved-notes{
+    padding: 5%;
+}
+#deleteAllNotes{
+    margin-left: 0;
+}
+h5{
+    margin-top: 8px ;
+}
+#imp-btn{
+    margin-left: auto;
+    float: right;
+}
